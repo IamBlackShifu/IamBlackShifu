@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @IamBlackShifu
-- 👀 I’m interested in Cyber Security, Digital Forensics, Software Automation Testing and Breaking things
-- 🌱 I’m currently learning creative ways to do the above more
-- 💞️ I’m looking to collaborate on Open Source projects in python of any nature
-- 📫 How to reach me is not really a mistry as you are already here
-- 😄 Pronouns: Him/He
-- ⚡ Fun fact: I solve puzzles on my free time
+👋 Hi, I’m @BlackShifu
+👀 I’m interested in Cybersecurity, Automation in QA, Python e.t.c
+🌱 I’m currently learning more on Open Source Intelligence Technology (OSINT) and the technologies associated with what l have mentioned above.
+💞️ I’m looking to collaborate on any Open Source projects to do with security, automation and quality assurance testing
+📫 How to reach me will be a tricky question since you are already here. :-).
 
 <!---
 IamBlackShifu/IamBlackShifu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
