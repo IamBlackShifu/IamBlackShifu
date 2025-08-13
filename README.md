@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m @BlackShifu
+# 👋 Hey there, IamBlackShifu
 
 Welcome to my corner of GitHub! Here's a little about me:
 
